@@ -1,5 +1,5 @@
 fileFormatVersion: 2
-guid: 606eae481656ec044a7a3e866c874a04
+guid: eb7f9e5be07fdf44796a45188d11ca21
 TextureImporter:
   internalIDToNameTable: []
   externalObjects: {}
@@ -97,7 +97,7 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: "Stickman Count Sar\u0131_0"
+      name: Stickman Count 2_0
       rect:
         serializedVersion: 2
         x: 262
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: 0
       bones: []
-      spriteID: 51884316adfc07a429e2315599a67e68
-      internalID: -482547424
+      spriteID: 73ef8e4425986b242be0539523920fd1
+      internalID: -1305872455
       vertices: []
       indices: 
       edges: []
@@ -122,7 +122,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 6cbf791db57d3244cbb528083f0bcda1
+    spriteID: f623228a37d8bbf4ba45f8fca7aa77f5
     internalID: 0
     vertices: []
     indices: 
@@ -132,7 +132,7 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      "Stickman Count Sar\u0131_0": -482547424
+      Stickman Count 2_0: -1305872455
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
